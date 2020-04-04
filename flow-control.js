@@ -49,5 +49,5 @@ function switchAge(age) {
         default :
         console.log('You have an age');
   }
-  
+
 } console.log(switchAge(20))
