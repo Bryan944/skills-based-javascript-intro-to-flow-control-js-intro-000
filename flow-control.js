@@ -48,10 +48,10 @@ var age =20 ;
       case 18:
       case 19:
           return "teen";
-      
+
       default:
           return 'You have an age';
-      
+
     }
-        
+
 }
