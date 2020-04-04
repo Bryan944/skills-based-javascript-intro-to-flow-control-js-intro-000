@@ -35,3 +35,23 @@ function switchAge(age) {
 
 
 }
+function switchAge(age){
+
+
+var age =20 ;
+    switch(age) {
+      case 13:
+      case 14:
+      case 15:
+      case 16:
+      case 17:
+      case 18:
+      case 19:
+          return "teen";
+      
+      default:
+          return 'You have an age';
+      
+    }
+        
+}
